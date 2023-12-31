@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![IMG (1)](https://github.com/jose9428/adivina-pokemon/assets/76067475/319248bd-0be4-439a-bd18-f83ae85d8d97)
+![IMG (2)](https://github.com/jose9428/adivina-pokemon/assets/76067475/21384967-59c4-4783-914c-34339ecac7e9)
+![IMG (3)](https://github.com/jose9428/adivina-pokemon/assets/76067475/795f116c-1408-4349-9bea-c8df250603a5)
+![IMG (4)](https://github.com/jose9428/adivina-pokemon/assets/76067475/5761890d-ad01-44d3-8fe7-943ef17d0421)
+![IMG (5)](https://github.com/jose9428/adivina-pokemon/assets/76067475/8c0f1be8-289b-4156-a930-6c5e237b5838)
